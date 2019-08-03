@@ -6,6 +6,8 @@ The dataset we will be working are the practice dataset from the [H3ABioNet 16S 
 
 The table below contains the metadata associated with the dog stool samples. There are three dogs which are treated with increased percentage of a compound in their diet: 5 different treatments (0-4, representing an increased percentage of a compound in their diet).
 
+working on 16S tutorial using DADA2
+
 Sample | Dog | Treatment | Read counts r1 | Read counts r2
 ------ | --- | --------- | -------------- | -------------- 
 Dog1 | B | 2 | 118343 | 118343
