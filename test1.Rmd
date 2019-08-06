@@ -1,0 +1,27 @@
+---
+title: "DADA2 Tutorial"
+author: "by Imane Allali"
+output: html_document
+---
+
+# Part1
+## Header2
+
+This is my first markdown document.
+
+Let's load some data
+
+```{r}
+library(datasets)
+data(airquality)
+summary(airquality)
+```
+
+Here's a pairs plot of the data.
+
+```{r}
+pairs(airquality)
+```
+
+
+
